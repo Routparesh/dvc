@@ -1,0 +1,5 @@
+outs:
+- md5: 06b3e2991519426a0ebf7517afecafb3
+  size: 23857
+  hash: md5
+  path: Indian-Liver-Patient-Dataset-(ILPD).csv
